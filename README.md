@@ -1,2 +1,2 @@
 # Bond-Analytics
-This is the code to accomplish the bond analytics using Quantlib.
+Include the code to accomplish the bond analytics using Quantlib.
